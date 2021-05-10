@@ -1,4 +1,6 @@
 """
+Code written by: Sidharth S aka SidTheLoser
+
 This project is inspired by TokyoEdTech aka Christian Thompson's video https://www.youtube.com/watch?v=E6K7fc0nP8U
 Watch the video if you need more info about what this project is and leave a sub if you can, will ya :)
 """
@@ -20,3 +22,6 @@ for i in range(1, 101):
 
     print()
         
+"""
+You can use this code wherever you want, I don't need any royalty fees or any shoutouts. Have fun and keep on codin'
+"""
